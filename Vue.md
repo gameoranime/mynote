@@ -20,7 +20,7 @@
 ## 1.安装
 参考链接:https://cn.vuejs.org/v2/guide/installation.html
 直接下载并用 script 标签引入，Vue 会被注册为一个全局变量。
-可以直接使用CDN引入
+可以直接使用CDN引入：
 ~~~
 <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
 ~~~
